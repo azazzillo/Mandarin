@@ -20,7 +20,7 @@
 ### Prerequisites
 Ensure you have Python installed on your system. Then, clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/MANDARIN.git
+git clone https://github.com/azazzillo/MANDARIN.git
 cd MANDARIN
 ```
 
