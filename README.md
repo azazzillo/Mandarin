@@ -51,8 +51,8 @@ uvicorn app.main:app --reload
 
 ### API Documentation
 Once the server is running, you can access API documentation at:
-- Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8080/docs)
-- ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8080/redoc)
+- Swagger UI: [http://127.0.0.1:8080/docs](http://127.0.0.1:8080/docs)
+- ReDoc: [http://127.0.0.1:8080/redoc](http://127.0.0.1:8080/redoc)
 
 ## Contribution
 Feel free to contribute by submitting issues or pull requests!
