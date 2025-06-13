@@ -55,6 +55,9 @@ Once the server is running, you can access API documentation at:
 - Swagger UI: [http://127.0.0.1:8080/docs](http://127.0.0.1:8080/docs)
 - ReDoc: [http://127.0.0.1:8080/redoc](http://127.0.0.1:8080/redoc)
 
+## Related Projects
+- [Frontend for Mandarin (React App)](https://github.com/azazzillo/mandarin_f)
+
 ## Contribution
 Feel free to contribute by submitting issues or pull requests!
 
