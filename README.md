@@ -1,4 +1,5 @@
 # MANDARIN
+[🌐 Frontend Repository](https://github.com/azazzillo/mandarin_f)
 
 ## About the Project
 **MANDARIN** is a recommendation platform that helps users find the best places to visit in their city based on their current mood. The website suggests venues such as cafes, restaurants, clubs, libraries, and theaters by analyzing user input and fetching highly rated locations.
