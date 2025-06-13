@@ -1,4 +1,4 @@
-# MANDARIN
+# MANDARIN | 2gis-parse-fastapi
 [🌐 Frontend Repository](https://github.com/azazzillo/mandarin_f)
 
 ## About the Project
